@@ -1,0 +1,71 @@
+[2023-12-04T16:16:14.189435500] Дана інформація про кількість поверхів. - org.example.House@133314b
+[2023-12-04T16:16:43.899366800] Дана інформація про кількість поверхів. - org.example.House@133314b
+[2023-12-04T16:17:24.894496400] Дана інформація про адресу. - org.example.House@133314b
+[2023-12-04T17:18:25.686858600] Дана інформація про адресу. - org.example.House@133314b
+[2023-12-04T17:19:19.125900600] Дана інформація про адресу. - org.example.House@133314b
+[2023-12-04T17:19:36.971508900] Дана інформація про адресу. - org.example.House@133314b
+[2023-12-04T19:08:41.179292900] Дана інформація про адресу. - org.example.House@133314b
+[2023-12-11T12:41:57.694679400] Дана інформація про адресу. - org.example.House@133314b
+[2023-12-11T18:14:45.378208800] Retrieved information about the address. - org.example.House@133314b
+[2023-12-11T18:41:19.738312400] Retrieved information about the address. - org.example.House@133314b
+[2023-12-11T18:41:19.755317900] Retrieved information about the address. - org.example.House@7eda2dbb
+[2023-12-11T18:41:19.755317900] Retrieved information about the address. - org.example.House@6576fe71
+[2023-12-11T18:41:44.459858600] Retrieved information about the address. - org.example.House@133314b
+[2023-12-11T18:41:44.475861700] Retrieved information about the address. - org.example.House@7eda2dbb
+[2023-12-11T18:41:44.475861700] Retrieved information about the address. - org.example.House@6576fe71
+[2023-12-11T18:41:56.774604700] Retrieved information about the address. - org.example.House@133314b
+[2023-12-11T18:41:56.792612100] Retrieved information about the address. - org.example.House@7eda2dbb
+[2023-12-11T18:41:56.792612100] Retrieved information about the address. - org.example.House@6576fe71
+[2023-12-11T18:43:15.389197800] Retrieved information about the address. - org.example.House@133314b
+[2023-12-11T18:43:15.406200500] Retrieved information about the address. - org.example.House@7eda2dbb
+[2023-12-11T18:43:15.406200500] Retrieved information about the address. - org.example.House@6576fe71
+[2023-12-11T18:43:15.407202500] Retrieved information about the address. - org.example.House@76fb509a
+[2023-12-11T18:43:15.407202500] Retrieved information about the address. - org.example.House@300ffa5d
+[2023-12-11T18:43:15.407202500] Retrieved information about the address. - org.example.House@1f17ae12
+[2023-12-11T18:44:14.410888300] Retrieved information about the address. - org.example.House@133314b
+[2023-12-11T18:44:14.428891700] Retrieved information about the address. - org.example.House@7eda2dbb
+[2023-12-11T18:44:14.428891700] Retrieved information about the address. - org.example.House@6576fe71
+[2023-12-11T18:48:20.904997500] Retrieved information about the address. - org.example.House@133314b
+[2023-12-11T18:48:20.919004] Retrieved information about the address. - org.example.House@7eda2dbb
+[2023-12-11T18:48:20.920002900] Retrieved information about the address. - org.example.House@6576fe71
+[2023-12-11T18:48:20.920002900] Retrieved information about the address. - org.example.House@76fb509a
+[2023-12-11T18:50:35.665123600] Retrieved information about the address. - org.example.House@133314b
+[2023-12-11T18:50:35.681126300] Retrieved information about the address. - org.example.House@7eda2dbb
+[2023-12-11T18:50:35.682127200] Retrieved information about the address. - org.example.House@6576fe71
+[2023-12-11T18:50:35.682127200] Retrieved information about the address. - org.example.House@76fb509a
+[2023-12-11T18:55:26.961766200] Retrieved information about the address. - org.example.House@133314b
+[2023-12-11T18:55:26.977770700] Retrieved information about the address. - org.example.House@7eda2dbb
+[2023-12-11T18:55:26.977770700] Retrieved information about the address. - org.example.House@6576fe71
+[2023-12-11T18:55:26.978768800] Retrieved information about the address. - org.example.House@76fb509a
+[2023-12-11T18:55:26.978768800] Retrieved information about the address. - org.example.House@300ffa5d
+[2023-12-11T18:55:26.978768800] Retrieved information about the address. - org.example.House@1f17ae12
+[2023-12-11T18:55:48.900663200] Retrieved information about the address. - org.example.House@133314b
+[2023-12-11T18:55:48.914668200] Retrieved information about the address. - org.example.House@7eda2dbb
+[2023-12-11T18:55:48.914668200] Retrieved information about the address. - org.example.House@6576fe71
+[2023-12-11T18:55:48.914668200] Retrieved information about the address. - org.example.House@76fb509a
+[2023-12-11T18:55:48.914668200] Retrieved information about the address. - org.example.House@300ffa5d
+[2023-12-11T18:55:48.914668200] Retrieved information about the address. - org.example.House@1f17ae12
+[2023-12-11T18:55:57.930687400] Retrieved information about the address. - org.example.House@133314b
+[2023-12-11T18:55:57.945690600] Retrieved information about the address. - org.example.House@7eda2dbb
+[2023-12-11T18:55:57.945690600] Retrieved information about the address. - org.example.House@6576fe71
+[2023-12-11T18:55:57.946691700] Retrieved information about the address. - org.example.House@76fb509a
+[2023-12-11T18:55:57.946691700] Retrieved information about the address. - org.example.House@300ffa5d
+[2023-12-11T18:55:57.946691700] Retrieved information about the address. - org.example.House@1f17ae12
+[2023-12-11T18:56:45.377289300] Retrieved information about the address. - org.example.House@133314b
+[2023-12-11T18:56:45.392292700] Retrieved information about the address. - org.example.House@7eda2dbb
+[2023-12-11T18:56:45.392292700] Retrieved information about the address. - org.example.House@6576fe71
+[2023-12-11T18:56:45.392292700] Retrieved information about the address. - org.example.House@76fb509a
+[2023-12-11T18:56:45.392292700] Retrieved information about the address. - org.example.House@300ffa5d
+[2023-12-11T18:56:45.393291200] Retrieved information about the address. - org.example.House@1f17ae12
+[2023-12-11T18:57:05.795851800] Retrieved information about the address. - org.example.House@133314b
+[2023-12-11T18:57:05.810855600] Retrieved information about the address. - org.example.House@7eda2dbb
+[2023-12-11T18:57:05.810855600] Retrieved information about the address. - org.example.House@6576fe71
+[2023-12-11T18:57:05.810855600] Retrieved information about the address. - org.example.House@76fb509a
+[2023-12-11T18:57:05.811856700] Retrieved information about the address. - org.example.House@300ffa5d
+[2023-12-11T18:57:05.811856700] Retrieved information about the address. - org.example.House@1f17ae12
+[2023-12-11T18:57:19.825991] Retrieved information about the address. - org.example.House@133314b
+[2023-12-11T18:57:19.839994300] Retrieved information about the address. - org.example.House@7eda2dbb
+[2023-12-11T18:57:19.840998300] Retrieved information about the address. - org.example.House@6576fe71
+[2023-12-11T18:57:19.840998300] Retrieved information about the address. - org.example.House@76fb509a
+[2023-12-11T18:57:19.840998300] Retrieved information about the address. - org.example.House@300ffa5d
+[2023-12-11T18:57:19.840998300] Retrieved information about the address. - org.example.House@1f17ae12
